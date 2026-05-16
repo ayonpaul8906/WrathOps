@@ -71,7 +71,7 @@ export default function Hero() {
                   />
                 ))}
               </div>
-              <span>Used by 500+ developers</span>
+              <span>Used by 100+ developers</span>
             </div>
             <div className="hidden sm:block w-px h-4 bg-border" />
             <a

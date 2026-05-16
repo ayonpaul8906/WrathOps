@@ -21,7 +21,7 @@ const plans = [
   },
   {
     name: 'Pro',
-    price: '499',
+    price: '199',
     description: 'For active development teams',
     features: [
       'Unlimited repositories',
